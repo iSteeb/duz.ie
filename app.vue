@@ -1,5 +1,7 @@
+<script setup>
+import LandingPage from './components/landing.vue';
+</script>
+
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <LandingPage />
 </template>
